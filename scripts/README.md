@@ -10,8 +10,8 @@ PSS: If you want, you can modify and make that scripts better and make a pull re
 ## Instalation
 * Install the depencies first :D
 * In your shortcut file o manager select the keys what you want call the brightness
-![](screenshots/brightness_up.png)
-![](screenshots/brightness_down.png)
+![Screenshot](screenshots/brightness_up.png)
+![Screenshot](screenshots/brightness_down.png)
 * And now the volume keys
 ![Screenshot](screenshots/volume_up.png)
 ![Screenshot](screenshots/volume_down.png)

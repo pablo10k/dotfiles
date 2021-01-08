@@ -13,6 +13,6 @@ PSS: If you want, you can modify and make that scripts better and make a pull re
 ![](https://github.com/pablo10k/dotfiles/tree/main/screenshots/brightness_up.png)
 ![](https://github.com/pablo10k/dotfiles/tree/main/screenshots/brightness_down.png)
 * And now the volume keys
-![Screenshot](https://github.com/pablo10k/dotfiles/tree/main/screenshots/volume_up.png)
-![Screenshot](https://github.com/pablo10k/dotfiles/tree/main/screenshots/volume_down.png?raw=True)
+![Screenshot](screenshots/volume_up.png)
+![Screenshot](screenshots/volume_down.png)
 

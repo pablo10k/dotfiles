@@ -10,9 +10,9 @@ PSS: If you want, you can modify and make that scripts better and make a pull re
 ## Instalation
 * Install the depencies first :D
 * In your shortcut file o manager select the keys what you want call the brightness
-![alt text](https://github.com/pablo10k/dotfiles/tree/main/screenshots/brightness_up.png)
-![alt text](https://github.com/pablo10k/dotfiles/tree/main/screenshots/brightness_down.png)
+![](https://github.com/pablo10k/dotfiles/tree/main/screenshots/brightness_up.png)
+![](https://github.com/pablo10k/dotfiles/tree/main/screenshots/brightness_down.png)
 * And now the volume keys
-![alt text](https://github.com/pablo10k/dotfiles/tree/main/screenshots/volume_up.png)
-![plot](https://github.com/pablo10k/dotfiles/tree/main/screenshots/volume_down.png?raw=True)
+![](https://github.com/pablo10k/dotfiles/tree/main/screenshots/volume_up.png)
+![](https://github.com/pablo10k/dotfiles/tree/main/screenshots/volume_down.png?raw=True)
 

@@ -14,5 +14,5 @@ PSS: If you want, you can modify and make that scripts better and make a pull re
 ![alt text](https://github.com/pablo10k/dotfiles/tree/main/screenshots/brightness_down.png)
 * And now the volume keys
 ![alt text](https://github.com/pablo10k/dotfiles/tree/main/screenshots/volume_up.png)
-![alt text](https://github.com/pablo10k/dotfiles/tree/main/screenshots/volume_down.png?raw=True)
+![plot](https://github.com/pablo10k/dotfiles/tree/main/screenshots/volume_down.png?raw=True)
 
